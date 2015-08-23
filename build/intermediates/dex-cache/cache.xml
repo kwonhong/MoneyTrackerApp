@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/james/Desktop/MoneyTrackerApp/app/libs/listviewanimations_lib-manipulation_3.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63737e512fcd9e0ebe9bcd0bb375c2dded74116f">
+        <dex dex="/Users/james/Desktop/MoneyTrackerApp/app/build/intermediates/pre-dexed/debug/listviewanimations_lib-manipulation_3.1.0-7871675209ad2849a87eddb97c9a58466daee6a0.jar" />
+    </item>
+    <item
+        jar="/Users/james/Desktop/MoneyTrackerApp/app/libs/listviewanimations_lib-core_3.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f3f9629b068554d8513a2aaf34418171bf430851">
+        <dex dex="/Users/james/Desktop/MoneyTrackerApp/app/build/intermediates/pre-dexed/debug/listviewanimations_lib-core_3.1.0-08e64842932728de219e2d8764c7643293c7bb98.jar" />
+    </item>
+    <item
+        jar="/Users/james/Desktop/MoneyTrackerApp/app/build/intermediates/exploded-aar/com.balysv/material-ripple/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c733e9d1b065d940a08f2fca0ff920dfc08d94cc">
+        <dex dex="/Users/james/Desktop/MoneyTrackerApp/app/build/intermediates/pre-dexed/debug/classes-dbad3a41e49fe42171c8697612aec19818448deb.jar" />
+    </item>
+    <item
+        jar="/Users/james/Desktop/MoneyTrackerApp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="/Users/james/Desktop/MoneyTrackerApp/app/build/intermediates/pre-dexed/debug/classes-e416c96c96b06adf98f023ac7b336ab4f69c2b54.jar" />
+    </item>
+    <item
+        jar="/Users/james/Desktop/MoneyTrackerApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/james/Desktop/MoneyTrackerApp/app/build/intermediates/pre-dexed/debug/classes-eacd1fc975ee7c4054846cd568e527a86ec014b8.jar" />
+    </item>
+    <item
+        jar="/Users/james/Desktop/MoneyTrackerApp/app/libs/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Users/james/Desktop/MoneyTrackerApp/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-3f4790c3957daa1765efa4227ab68b172d8aefb3.jar" />
+    </item>
+    <item
+        jar="/Users/james/Desktop/MoneyTrackerApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/james/Desktop/MoneyTrackerApp/app/build/intermediates/pre-dexed/debug/classes-f252632a52acd080d2085df24874170ff081b860.jar" />
+    </item>
+    <item
+        jar="/Users/james/Desktop/MoneyTrackerApp/app/build/intermediates/exploded-aar/com.github.satyan/sugar/1.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="07e07903922250dabf50c7d131d6fa069a050305">
+        <dex dex="/Users/james/Desktop/MoneyTrackerApp/app/build/intermediates/pre-dexed/debug/classes-f45a44e7dc3de00f7d327e2330585b5f53fa8dd8.jar" />
+    </item>
+    <item
+        jar="/Users/james/Desktop/MoneyTrackerApp/app/libs/listviewanimations_lib-core-slh_3.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a4fe703aabd23e8c287c90396514418119109dd1">
+        <dex dex="/Users/james/Desktop/MoneyTrackerApp/app/build/intermediates/pre-dexed/debug/listviewanimations_lib-core-slh_3.1.0-97073cd87c5be9d4fbc243883b294fff7b5ff413.jar" />
+    </item>
+    <item
+        jar="/Users/james/Desktop/MoneyTrackerApp/app/build/intermediates/exploded-aar/com.rengwuxian.materialedittext/library/2.1.3/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d5ae30ab253dafcf501f0855645b0e72b8a5d47a">
+        <dex dex="/Users/james/Desktop/MoneyTrackerApp/app/build/intermediates/pre-dexed/debug/classes-d63c117ce902b86e20aaab70f8f507fca3967a4f.jar" />
+    </item>
+    <item
+        jar="/Users/james/Desktop/MoneyTrackerApp/app/build/intermediates/exploded-aar/com.melnykov/floatingactionbutton/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="/Users/james/Desktop/MoneyTrackerApp/app/build/intermediates/pre-dexed/debug/classes-3aabbce0ff7e6a34e3b25a5ba0f94134ea206e9f.jar" />
+    </item>
+    <item
+        jar="/Users/james/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/james/Desktop/MoneyTrackerApp/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-b70ea8ab965c36cd936810d4ed4053b3250477d0.jar" />
+    </item>
+    <item
+        jar="/Users/james/Desktop/MoneyTrackerApp/app/build/intermediates/exploded-aar/com.wdullaer/materialdatetimepicker/1.4.2/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="10f66556026320088327e814108d0a8e80111130">
+        <dex dex="/Users/james/Desktop/MoneyTrackerApp/app/build/intermediates/pre-dexed/debug/classes-203399482e22eb366f8ca9fa06aee1b855a722c0.jar" />
+    </item>
+    <item
+        jar="/Users/james/Desktop/MoneyTrackerApp/app/libs/joda-time-1.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5a18504e34c5cbe9259d6fd0123ccf6f16115a41">
+        <dex dex="/Users/james/Desktop/MoneyTrackerApp/app/build/intermediates/pre-dexed/debug/joda-time-1.6-05fce449d4155e82b3e28d1191d14fcf3a39e9da.jar" />
+    </item>
+    <item
+        jar="/Users/james/Desktop/MoneyTrackerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/james/Desktop/MoneyTrackerApp/app/build/intermediates/pre-dexed/debug/classes-075b51a1f678007f049e4626e741de9ef1cd6a7e.jar" />
+    </item>
+    <item
+        jar="/Users/james/Desktop/MoneyTrackerApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/james/Desktop/MoneyTrackerApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-0b8b0e4addae19b51e779f6bf3cc447d7c9dd2f6.jar" />
+    </item>
+    <item
+        jar="/Users/james/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/james/Desktop/MoneyTrackerApp/app/build/intermediates/pre-dexed/debug/library-2.4.0-6f9172dc586de0a1f3fa025234fa71f2cf6c67bf.jar" />
+    </item>
+
+</items>
